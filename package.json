@@ -1,0 +1,28 @@
+{
+  "name": "nego.ai",
+  "version": "1.0.3",
+  "description": "Powerfull Fast Beatifull AI Module ",
+  "main": "index.js",
+  "scripts": {
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kardespro/nego.ai.git"
+  },
+  "keywords": [
+    "nego.ai",
+    "kardespro",
+    "nego",
+    "negodev"
+  ],
+  "author": "Kardespro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kardespro/nego.ai/issues"
+  },
+  "homepage": "https://github.com/kardespro/nego.ai#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
