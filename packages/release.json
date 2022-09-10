@@ -1,7 +1,7 @@
 [
     {
         "question": "send me your invite link",
-        "answer": "This Message Not Configured ! Read Docs https://negoai.js.org/docs/#/missconfigured",
+        "answer": "This Message Not Configured ! Read Docs https://negoai.js.org/en/missconfigured",
         "isCursedResponse": false
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "question": "who made you? ",
-        "answer": "This Message Not Configured ! Read Docs https://negoai.js.org/docs/#/missconfigured",
+        "answer": "This Message Not Configured ! Read Docs https://negoai.js.org/en/missconfigured",
         "isCursedResponse": false
     },
     {
