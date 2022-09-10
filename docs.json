@@ -1,0 +1,11 @@
+{
+  "name": "Nego AI",
+  "theme": "#ab47bc",
+  "favicon": "/assets/favicon.ico",
+  "logo": "https://storage.nego.network/uploads/nego.png",
+  "docsearch": {
+    "appId": "...",
+    "apiKey": "...",
+    "indexName": "..."
+  }
+}
